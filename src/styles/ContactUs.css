@@ -1,0 +1,45 @@
+.inicioCU{
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 9rem ;
+}
+.inicioCU h1{
+  font-size: 5rem;
+  color: black;
+}
+.inicioCU img{
+  width: 100%;
+}
+
+
+.formulario{
+  padding: 10rem 10rem 10rem 10rem;
+   height: 1000px;
+  background: rgba(199, 192, 192, 0.35);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.1px);
+  -webkit-backdrop-filter: blur(6.1px);
+  border: 1px solid rgba(199, 192, 192, 0.3);
+
+  }
+  .formulario h1 {
+    
+    font-size: 4rem;
+   
+
+  }
+  .formulario h3{
+    font-size: 2yrem;
+
+  }
+  .formulario .datos{
+    background-color: white;
+
+  }
+
+  .formulario label{
+    font-size: 1.75rem;
+    display: block; 
+    float: center; 	
+  }

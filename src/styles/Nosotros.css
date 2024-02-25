@@ -1,0 +1,16 @@
+.inicioCU{
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 9rem ;
+}
+.inicioCU h1{
+  font-size: 5rem;
+  color: black;
+}
+.inicioCU img{
+  width: 100%;
+}
+
+.imgLogo{
+width: 10rem;
+}

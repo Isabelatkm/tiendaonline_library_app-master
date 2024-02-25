@@ -1,0 +1,17 @@
+.inicioP{
+  width: 100%;
+  margin: 0 auto;
+  padding-top: 9rem ;
+}
+.inicioP h1{
+  font-size: 5rem;
+  color: black;
+}
+.inicioP img{
+  margin-top: -10%;
+  width: 70% !important;
+  height: 50%;
+  text-align: center;
+  align-items: center;
+}
+
